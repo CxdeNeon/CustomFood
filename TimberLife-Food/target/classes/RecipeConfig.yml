@@ -1,0 +1,12 @@
+# Recipes:
+#  <Rezeptnummer>:
+#       input: [TL,TM,TR&ML,MM,MR&BL,BM,BR]
+#       output:
+#           owner: <Playername>
+#           saturation: <Hungerbars>
+#           name: <Displayname>
+#           lore:
+#               - line 1
+#               - line 2
+#               . . . 
+Recepies:

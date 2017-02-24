@@ -1,0 +1,9 @@
+name: Food
+author: CxdeNeon / Tonda_
+version: 1.0.0
+main: food.de.neon.main.Main
+
+commands:
+   food:
+      description: Food commands.
+      usage: /food [reload]
